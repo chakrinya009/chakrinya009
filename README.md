@@ -15,10 +15,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/chakrinya009/github-readme-stats"><img alt="chakri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chakrinya009&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 

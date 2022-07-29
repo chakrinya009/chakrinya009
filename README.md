@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm chakri</h1>
- ![coding](https://media3.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif?cid=ecf05e47pf6ipz3w90k7h1wef8soe3hh1uhdjud6ydmo7k26&rid=giphy.gif&ct=g.gif)<h3 align="center">I'm a passionate Full Stack Developer</h3>
+<h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 
 

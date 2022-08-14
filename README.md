@@ -1,8 +1,8 @@
 <a href="https://github.com/chakrinya009"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-![code](https://media4.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e47ihyjge4ylqobjo4nwmm7skdnu3wxjnuawl8ilrwz&rid=200w.webp&ct=g.gif)
+<span> ![code](https://media4.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e47ihyjge4ylqobjo4nwmm7skdnu3wxjnuawl8ilrwz&rid=200w.webp&ct=g.gif)
 
-![code](https://giphy.com/gifs/break-admin-sipping-gfO1UMUVlM6i1BmKD2.gif)
+![code](https://giphy.com/gifs/break-admin-sipping-gfO1UMUVlM6i1BmKD2.gif) </span>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm chakri</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>

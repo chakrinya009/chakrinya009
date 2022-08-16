@@ -1,6 +1,6 @@
 <a href="https://github.com/chakrinya009"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<span align="center" width="200px"> ![code](https://media4.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e47ihyjge4ylqobjo4nwmm7skdnu3wxjnuawl8ilrwz&rid=200w.webp&ct=g.gif) </span>
+<span align="center" width="700px"> ![code](https://media4.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e47ihyjge4ylqobjo4nwmm7skdnu3wxjnuawl8ilrwz&rid=200w.webp&ct=g.gif) </span>
 
 
 

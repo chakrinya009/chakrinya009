@@ -1,23 +1,16 @@
-<a href="https://github.com/chakrinya009"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<span align="center" width="700px"> ![code](https://media4.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e47ihyjge4ylqobjo4nwmm7skdnu3wxjnuawl8ilrwz&rid=200w.webp&ct=g.gif) </span>
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm chakri</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
-
-
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
 <br/>
 
-<p align="center">
-    <a href="https://github.com/chakrinya009/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chakri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chakrinya009&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+<a href="https://github.com/chakrinya009"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<div align="center">
+
+<a href="https://github.com/chakrinya009"> ![code](https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif) </a>
+
+</div>
 
 
 
@@ -25,8 +18,47 @@
 <br/>
 <br/>
 
-<a href="https://github.com/chakrinya009/github-readme-activity-graph"><img alt="chakri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chakrinya009&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+
+
+
+
+# 💻 Tech Stack:
+
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 <br/>
 <br/>
 
+
+## 🌐 Socials:
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chakrinya-balabadra-94814a211) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chakrinya)
+
+</div>
+
+<br/>
+<br/>
+
+
+# 📊 GitHub Stats:
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=chakrinya009&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chakrinya009&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chakrinya009&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+<br/>
+<br/>
+
+[![chakri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chakrinya009&theme=react-dark)](https://github.com/chakrinya009/)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -46,8 +46,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=chakrinya009&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chakrinya009&theme=dark&hide_border=true)<br/>
+[![](https://github-readme-stats.vercel.app/api?username=chakrinya009&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/chakrinya009/)
+
+<br/>
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=chakrinya009&theme=dark&hide_border=true)](https://github.com/chakrinya009/)<br/>
 
 
 </div>
